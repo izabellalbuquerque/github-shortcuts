@@ -1,42 +1,42 @@
-# Atalhos Essenciais do GitHub 🚀
+# Essential GitHub Shortcuts 🚀
 
-Se você passa um bom tempo no GitHub, seja colaborando em projetos open-source, revisando PRs ou gerenciando seus próprios repositórios, sabe que cada segundo conta. E nada melhor do que usar atalhos para agilizar as tarefas repetitivas e aumentar a produtividade. Neste post, vou compartilhar alguns dos atalhos mais úteis que todo desenvolvedor(a) deveria conhecer!
+If you spend a good amount of time on GitHub, whether collaborating on open-source projects, reviewing PRs, or managing your own repositories, you know that every second counts. There’s nothing better than using shortcuts to speed up repetitive tasks and boost productivity. In this post, I’ll share some of the most useful shortcuts that every developer should know!
 
-## Principais Atalhos de Teclado no GitHub 🎯
+## Key Keyboard Shortcuts on GitHub 🎯
 
-### 1. **Abrir a barra de pesquisa global**
-   - **`/`**: Vai direto para a barra de pesquisa do GitHub, permitindo que você busque por qualquer repositório, issue ou pull request.
+### 1. **Open the global search bar**
+   - **`/`**: Goes directly to the GitHub search bar, allowing you to search for any repository, issue, or pull request.
 
-### 2. **Navegar entre as abas (Code, Issues, PRs, Actions)**
-   - **`g` + `c`**: Vai para a aba de código (Code).
-   - **`g` + `i`**: Vai para a aba de issues (Issues).
-   - **`g` + `p`**: Vai para a aba de pull requests (Pull Requests).
-   - **`g` + `b`**: Vai para o projeto (Project Board).
-   
-### 3. **Abrir uma nova issue**
-   - **`g` + `n`**: Abre uma nova issue rapidamente no repositório atual.
+### 2. **Navigate between tabs (Code, Issues, PRs, Actions)**
+   - **`g` + `c`**: Goes to the code tab (Code).
+   - **`g` + `i`**: Goes to the issues tab (Issues).
+   - **`g` + `p`**: Goes to the pull requests tab (Pull Requests).
+   - **`g` + `b`**: Goes to the project board (Project Board).
 
-### 4. **Navegar para sua página de notificações**
-   - **`g` + `n`**: Vai para suas notificações, mantendo você atualizado(a) sobre menções e atividades importantes.
+### 3. **Open a new issue**
+   - **`g` + `n`**: Quickly opens a new issue in the current repository.
 
-### 5. **Abrir qualquer arquivo com um atalho**
-   - **`t`**: Abre o modo de pesquisa de arquivos dentro do repositório, facilitando encontrar qualquer arquivo rapidamente.
+### 4. **Navigate to your notifications page**
+   - **`g` + `n`**: Goes to your notifications, keeping you updated on mentions and important activities.
 
-### 6. **Comentar em uma issue ou PR**
-   - **`Cmd` + `Enter` (Mac)** ou **`Ctrl` + `Enter` (Windows/Linux)**: Finaliza e envia seu comentário sem precisar clicar no botão de "Comentar".
+### 5. **Open any file with a shortcut**
+   - **`t`**: Opens the file search mode within the repository, making it easy to find any file quickly.
 
-### 7. **Navegar para um repositório específico**
-   - **`g` + `r`**: Abre a barra para buscar rapidamente entre os repositórios que você tem acesso.
+### 6. **Comment on an issue or PR**
+   - **`Cmd` + `Enter` (Mac)** or **`Ctrl` + `Enter` (Windows/Linux)**: Finalizes and sends your comment without needing to click the "Comment" button.
 
-### 8. **Visualizar uma lista de atalhos**
-   - **`?`**: Mostra uma lista completa de todos os atalhos do GitHub. Super útil se você esquecer algum! 
+### 7. **Navigate to a specific repository**
+   - **`g` + `r`**: Opens the bar to quickly search among the repositories you have access to.
 
-### 9. **Visualizar histórico de commits**
-   - **`g` + `l`**: Vai para a aba de commits do repositório atual, permitindo revisar o histórico facilmente.
+### 8. **View a list of shortcuts**
+   - **`?`**: Shows a complete list of all GitHub shortcuts. Super useful if you forget any!
 
-### 10. **Voltar para o topo da página**
-   - **`Shift` + `?`**: Um dos atalhos menos conhecidos, mas super prático quando você está em uma página longa e quer voltar ao topo rapidinho.
+### 9. **View commit history**
+   - **`g` + `l`**: Goes to the commits tab of the current repository, allowing you to easily review the history.
 
-## Conclusão
+### 10. **Scroll back to the top of the page**
+   - **`Shift` + `?`**: One of the lesser-known shortcuts, but super handy when you’re on a long page and want to quickly return to the top.
 
-Atalhos de teclado podem parecer detalhes pequenos, mas quando incorporados ao seu fluxo de trabalho, podem fazer uma diferença enorme na produtividade. Se você ainda não usava esses atalhos, agora é a hora de começar! 😉
+## Conclusion
+
+Keyboard shortcuts may seem like small details, but when incorporated into your workflow, they can make a huge difference in productivity. If you haven’t been using these shortcuts, now is the time to start! 😉
